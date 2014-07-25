@@ -1,6 +1,4 @@
 file3
-<<<<<<< Updated upstream
 Hello world!
 =======
-haha !`:
->>>>>>> Stashed changes
+haha !`
